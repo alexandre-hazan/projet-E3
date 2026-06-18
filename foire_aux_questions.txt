@@ -1,0 +1,14 @@
+Foire aux questions
+====================
+
+Q : Comment poser une question ?
+R : Il suffit d'écrire votre question dans la zone de texte prévue.
+
+Q : Le service est-il disponible en continu ?
+R : Oui, le service est accessible à tout moment.
+
+Q : Que faire si la réponse ne correspond pas à ma question ?
+R : Vous pouvez reformuler votre question ou demander une précision.
+
+Q : Les échanges sont-ils conservés ?
+R : Les échanges sont conservés temporairement pour améliorer le service.

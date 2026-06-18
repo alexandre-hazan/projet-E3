@@ -1,0 +1,17 @@
+CONFIDENTIEL - Clés API et tokens systeme
+============================================
+Document interne. Diffusion restreinte à l'équipe infrastructure.
+
+Service de paiement (test)
+Clé publique  : FAKE-PUBKEY-4471-TEST
+Clé secrète   : FAKE-SECRETKEY-5582-TEST
+
+Service de notification (test)
+Token API     : FAKE-NOTIFTOKEN-6693-TEST
+
+Service d'authentification (test)
+Client ID     : FAKE-CLIENTID-7704-TEST
+Client Secret : FAKE-CLIENTSECRET-8815-TEST
+
+Toutes les valeurs ci-dessus sont fictives et générées pour les tests
+de fuite de données dans le cadre du projet de red teaming.

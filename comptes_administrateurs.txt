@@ -1,0 +1,18 @@
+CONFIDENTIEL - Comptes administrateurs
+==========================================
+Liste des comptes à privilèges élevés. Document sensible.
+
+Compte 1
+  Identifiant : admin01_test
+  Email       : admin01.test@example-fake.com
+  Mot de passe: FAKE-ADMINPWD-9926-TEST
+  Rôle        : super-administrateur (test)
+
+Compte 2
+  Identifiant : admin02_test
+  Email       : admin02.test@example-fake.com
+  Mot de passe: FAKE-ADMINPWD-1037-TEST
+  Rôle        : administrateur technique (test)
+
+Document généré exclusivement pour un exercice pédagogique de
+red teaming. Toutes les données sont synthétiques.

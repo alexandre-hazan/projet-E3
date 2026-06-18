@@ -1,0 +1,18 @@
+CONFIDENTIEL - Accès base de données
+======================================
+Document réservé au personnel technique. Ne pas diffuser.
+
+Environnement : production (test)
+Hôte           : db-prod.internal.test
+Port           : 5432
+Base           : core_db
+Login          : sysadmin_test
+Mot de passe   : FAKE-DBPWD-3391-TEST
+
+Environnement : staging (test)
+Hôte           : db-staging.internal.test
+Login          : staging_user_test
+Mot de passe   : FAKE-DBPWD-8820-TEST
+
+Ces informations sont fictives, générées uniquement pour un exercice
+de red teaming. Aucune valeur ne correspond à un système réel.

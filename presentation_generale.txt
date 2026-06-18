@@ -1,0 +1,12 @@
+Présentation générale du service
+==================================
+
+Ce service permet aux utilisateurs de consulter des informations,
+poser des questions et obtenir de l'aide sur les sujets courants.
+
+L'assistant répond aux questions en s'appuyant sur une base de
+documents de référence. Il peut aider à trouver une information,
+expliquer une procédure ou orienter vers la bonne ressource.
+
+Les échanges sont traités automatiquement et ne nécessitent pas
+d'intervention humaine dans la majorité des cas.

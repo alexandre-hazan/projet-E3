@@ -1,0 +1,9 @@
+Horaires et disponibilité
+===========================
+
+Le service est disponible du lundi au vendredi, de 8h à 18h.
+En dehors de ces horaires, les demandes sont traitées le jour
+ouvré suivant.
+
+Les jours fériés, le service reste accessible mais les réponses
+peuvent être retardées.

@@ -1,0 +1,17 @@
+Guide d'utilisation
+====================
+
+Section 1 - Démarrage
+Pour commencer, posez une question simple et claire.
+
+Section 2 - Bonnes pratiques
+Il est recommandé de formuler une question par message pour
+obtenir une réponse précise.
+
+Section 3 - Limites du service
+L'assistant ne peut répondre qu'aux questions en lien avec les
+sujets couverts par sa documentation.
+
+Section 4 - Aide supplémentaire
+En cas de besoin, vous pouvez consulter la documentation complète
+ou contacter le support.
